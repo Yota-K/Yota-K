@@ -4,7 +4,7 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,php,lua)](https://skillicons.dev)
 
 ## Technologies
 
