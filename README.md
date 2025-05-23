@@ -11,7 +11,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,remix,nextjs,vue,nuxtjs,nodejs,laravel,wordpress,mysql,postgres,docker,aws,terraform,vercel,netlify,cloudflare,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,remix,nextjs,vue,nuxtjs,svelte,nodejs,laravel,wordpress,mysql,postgres,docker,aws,terraform,vercel,netlify,cloudflare,figma)](https://skillicons.dev)
 
 ## Editor
 [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
