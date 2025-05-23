@@ -7,11 +7,11 @@
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,typescript,php,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,go,lua)](https://skillicons.dev)
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,laravel,wordpress,mysql,docker,aws,vercel,netlify,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,remix,nextjs,vue,nuxtjs,nodejs,laravel,wordpress,mysql,postgres,docker,aws,terraform,vercel,netlify,cloudflare,figma)](https://skillicons.dev)
 
 ## Editor
 [![My Skills](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
