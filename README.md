@@ -1,7 +1,5 @@
 # My Profile
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yota-K&show_icons=true&theme=gruvbox)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yota-K&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yota-K&theme=gruvbox)
 
